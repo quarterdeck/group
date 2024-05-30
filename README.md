@@ -1,2 +1,5 @@
-# group
-Website for Quarterdeck Group
+# The Quarterdeck Group
+
+Website for The Quarterdeck Group
+
+[The Quarterdeck Group](https://quarterdeck.group)
